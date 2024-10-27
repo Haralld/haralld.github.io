@@ -1,5 +1,8 @@
 ---
 layout: default
+lang: ru-RU
+title: GavrilovDev
+excerpt: Тяжела и неказиста жизнь простого программиста
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
